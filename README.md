@@ -94,7 +94,7 @@ for (let i = 0; i < developers.length; i++) {
 }
 ```
 
-## Array Practice
+## Lab Practice
 
 Createa  file named `practice.js` to save your solutions.
 
@@ -115,7 +115,7 @@ const arr = [5, 7, 9];
 arr.push(6); // returns ???
 ```
 
-3. Change all odd numbers to be those numbers multiplied by two:
+3. Change all **odd** numbers to be those numbers multiplied by two:
 ```js
 const numbers = [4, 9, 7, 2, 1, 8];
 
@@ -124,16 +124,16 @@ const numbers = [4, 9, 7, 2, 1, 8];
 numbers; // => [8, 18, 14, 4, 2, 16]
 ```
 
-4. Change all **odd** numbers to be those numbers multiplied by two:
+4. Change all **even** numbers to be those numbers multiplied by two:
 ```js
 const numbers = [4, 9, 7, 2, 1, 8];
 
   // your code here
 
-numbers; // => [4, 18, 14, 2, 2, 8]
+numbers; // => [8, 9, 7, 4, 1, 16]
 ```
 
-5.  Create an array to hold your favorite colors.  For each choice, log to the screen a string like: `My #1 choice is blue.`
+5.  Create an array to hold your favorite colors.  For each choice, log to the screen a string like: `My #1 choice is blue.`. The rank number must correspond to the array structure.
 
 5.  Create an array of ages.  Loop through and log only the ages that are over 21.
 
