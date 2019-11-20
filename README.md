@@ -135,7 +135,13 @@ numbers; // => [8, 9, 7, 4, 1, 16]
 
 5.  Create an array to hold your favorite colors.  For each choice, log to the screen a string like: `My #1 choice is blue.`. The rank number must correspond to the array structure.
 
-5.  Create an array of ages.  Loop through and log only the ages that are over 21.
+6.  Create an array of ages.  Loop through and log only the ages that are over 21.
+
+```js
+const numbers = [3, 2, 24, 17, 15, 1];
+
+```
+7.  Use a **Map** function to find odd values and multiply them by 2 and for even numbers multiply them by 7 and return the new array in console as **NewNum**
 
 ## Array Resources
 
